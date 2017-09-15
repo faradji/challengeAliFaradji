@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Ali
+Built-By: ali
 Class-Path: log4j-1.2.17.jar jackson-annotations-2.8.4.jar jackson-jax
  rs-json-provider-2.8.4.jar jackson-jaxrs-base-2.8.4.jar jackson-core-
  2.8.4.jar jackson-databind-2.8.4.jar jackson-module-jaxb-annotations-
@@ -14,7 +14,7 @@ Class-Path: log4j-1.2.17.jar jackson-annotations-2.8.4.jar jackson-jax
  0.jar javassist-3.18.1-GA.jar validation-api-1.1.0.Final.jar jersey-c
  ontainer-servlet-core-2.7.jar jersey-container-jetty-http-2.7.jar jet
  ty-continuation-9.1.1.v20140108.jar
-Build-Jdk: 1.8.0_111
+Build-Jdk: 1.8.0_144
 Created-By: Maven Integration for Eclipse
 Main-Class: com.moneytransfer.Application
 
